@@ -1,4 +1,4 @@
-# Buku Petunjuk Praktikum Konsep Pemrograman
+# Buku Petunjuk Praktikum Konsep Pemrograman di ITI
 
 Lumbun ini digunakan untuk menyimpan *source* untuk modul praktikum konsep pemrograman di Institut Teknologi Indonesia.
 
